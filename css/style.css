@@ -277,10 +277,6 @@ strong {
 /*---------------------------------------
   NAVIGATION              
 -----------------------------------------*/
-.sticky-wrapper {
-  background: var(--navbar-bg-color);
-}
-
 .navbar {
   background: transparent;
   z-index: 9;
@@ -1324,7 +1320,7 @@ strong {
   }
 
   .hero {
-    height: calc(100vh - 80.39px);
+    height: calc(106vh - 80.39px);
   }
 
   .nav-tabs .nav-link {
