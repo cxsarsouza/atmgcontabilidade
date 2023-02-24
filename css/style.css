@@ -269,7 +269,6 @@ strong {
 }
 
 .navbar-collapse{
-  background: rgb(16 20 36 / 80%);
   padding: 10px;
   border-radius: 10px;
 }
@@ -1270,6 +1269,13 @@ strong {
   h6 {
     font-size: 18px;
   }
+
+  .navbar-collapse{
+    background: rgb(16 20 36 / 80%);
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
 
   .text-align{
     text-align: center;
