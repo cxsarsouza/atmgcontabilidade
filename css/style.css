@@ -268,6 +268,12 @@ strong {
   color: var(--white-color);
 }
 
+.navbar-collapse{
+  background: rgb(16 20 36 / 80%);
+  padding: 10px;
+  border-radius: 10px;
+}
+
 
 /*---------------------------------------
   NAVIGATION              
