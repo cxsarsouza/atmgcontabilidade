@@ -1511,5 +1511,24 @@ strong {
   }
 }
 
+@media screen and (max-height: 740px) {
+  .hero {
+    height: calc(120vh - 80.39px);
+}
+  .hero-sobre {
+    height: calc(66vh - 85px);
+  }
+
+}
+
+@media screen and (max-height: 690px) {
+  .hero {
+    height: calc(127vh - 80.39px);
+}
+
+}
+
+
+
 
 
